@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, all the files in that repository are made ready to be cloned on the git site. This needs to be done in order to create an online accessible version-control system for a local repository
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is like a temporary loaction in git where we can temporarily add our files before commiting them to repository. One advantage is that it we can even remove the files from staging area if we dont wish to add them to the repository
