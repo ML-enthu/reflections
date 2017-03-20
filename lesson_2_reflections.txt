@@ -8,3 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 Situations like when creating an experimental feature or italian version while keeping the original master version of code intact, creating a branch would be helpful. As a result of branching we can have multiple versions simultaneously of the same code and then merge back the branches when required
 How do the diagrams help you visualize the branch structure?
 They help in knowing which branches/commits can be reached & can be seen in the log and also about the parent commit of each commit
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that we combine all the commits made on both the branches since the split into one master & they are sorted according to the timestamps. We represent it in the diagram to help us understand the reachability of the branches/commits & also helps us know the parent commit
