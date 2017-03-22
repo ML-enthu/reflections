@@ -2,3 +2,7 @@ When would you want to create a remote repository rather than keeping all your w
 When I want to access my files remotely from a different computer or when someone else wants to add to my existing files
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because I may be working on something particular & won't want to copy those remote files untill I am done working on them
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branch- It works on one repo. It can be done both on local m/c as well as remote
+Clone-It works on more than one repo. It means getting a working repo on local m/c from remote location. Also it can be used to copy a repo from current location on local m/c to another location on the same m/c
+Fork - Its same as cloning a repo but on GitHub (remote)
