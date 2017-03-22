@@ -8,3 +8,5 @@ Clone-It works on more than one repo. It means getting a working repo on local m
 Fork - Its same as cloning a repo but on GitHub (remote)
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is that when I work on the last known state, & then when I try to pull/fetch changes from remote, I can come to know about the changes made remotely & locally using git log/git diff. Using that I can then merge the two versions together
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborating without git & github would become very much chaotic & messy. It would mean making one change at a time & not doing the work parallelly or simultaneously, resulting in larger development time. Using git/github would definitely be easier
